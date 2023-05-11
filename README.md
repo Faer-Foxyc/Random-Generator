@@ -1,4 +1,4 @@
 # Random-Generator
 Простенькая реализация генератора случайных чисел
 
-![image](https://github.com/Faer-Foxyc/Random-Generator/assets/75839381/69eac7e6-ce1c-4dad-90d4-0dcd1110fa39)
+![image](https://github.com/Faer-Foxyc/Random-Generator/assets/75839381/a223c689-702d-43c6-bf7f-4e2189c8e2a2)
