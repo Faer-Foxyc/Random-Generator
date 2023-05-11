@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Генератор случайных чисел", "Генератор случайных чисел.csproj", "{B80C777E-AB3C-4B4D-9509-E43436CE6BDD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomGenerator", "RandomGenerator.csproj", "{B80C777E-AB3C-4B4D-9509-E43436CE6BDD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
