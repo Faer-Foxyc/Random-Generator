@@ -3,7 +3,22 @@ namespace Генератор_случайных_чисел.Classes
 {
     internal class NumberGenerator
     {
-        int number { get; set; }
+        int numb = 0;
+        int number 
+        {
+            set 
+            {
+                if (value < 0)
+                {
+                    Console.WriteLine("\n Вводимое число не может быть отрицательным");
+                }
+                else
+                {
+                    number = value;
+                }
+            }
+            get { return numb; }
+        }
 
         public NumberGenerator(int _number)
         {
@@ -20,7 +35,7 @@ namespace Генератор_случайных_чисел.Classes
             }
             catch (Exception e)
             {
-                Console.WriteLine($"Ошибка! Отрицательное число + {e.Message}");
+                Console.WriteLine(e.Message);
             }
             return numb;
         }
